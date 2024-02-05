@@ -1,6 +1,6 @@
 ---
 - name: nginx deploy
-  host: all
+  hosts: all
   become: yes
 
   tasks:
